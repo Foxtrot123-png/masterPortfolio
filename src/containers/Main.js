@@ -11,6 +11,16 @@ import { settings } from "../portfolio.js";
 import Error404 from "../pages/errors/error404/Error";
 
 export default class Main extends Component {
+  // --- ADDED THIS SECTION FOR VISITOR COUNTING ---
+  componentDidMount() {
+    // This hits the "up" endpoint to add +1 to the count
+    fetch("https://api.counterapi.dev/v1/ritik-portfolio/visits/up")
+      .then((res) => res.json())
+      .then((data) => console.log("Visitor counted! New count:", data.count))
+      .catch((err) => console.error("Counter error:", err));
+  }
+  // -----------------------------------------------
+
   render() {
     return (
       <BrowserRouter basename="/Ritik-Portfolio">
