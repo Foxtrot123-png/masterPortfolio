@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -252,7 +252,8 @@ const certifications = {
       title: "Dynamics 365 Fundamentals (CRM)",
       subtitle: "- Microsoft",
       logo_path: "microsoft_logo.png",
-      certificate_link: "https://drive.google.com/file/d/1BwHopnPx_xRk-0C8-oDTlGZFjrKeTz8r/view?usp=drive_link",
+      certificate_link:
+        "https://drive.google.com/file/d/1BwHopnPx_xRk-0C8-oDTlGZFjrKeTz8r/view?usp=drive_link",
       alt_name: "Microsoft",
       color_code: "#D83B0199",
     },
@@ -275,9 +276,9 @@ const experience = {
           title: "AI Research Affiliate (Advisory)",
           company: "CoreDefense",
           company_url: "",
-          // Using google_logo.png because we know it exists. 
+          // Using google_logo.png because we know it exists.
           // Replace with "coredefense_logo.png" only AFTER you add that image to your folder.
-          logo_path: "coredefense_logo.jpg", 
+          logo_path: "coredefense_logo.jpg",
           duration: "Nov 2025 – Present",
           location: "Remote",
           description:
@@ -288,7 +289,7 @@ const experience = {
           title: "Data Analyst / Data Engineer",
           company: "Deloitte USI Ltd.",
           company_url: "https://www2.deloitte.com/",
-          logo_path: "deloitte_logo.png", 
+          logo_path: "deloitte_logo.png",
           duration: "July 2022 – July 2024",
           location: "Hyderabad, India",
           description:
@@ -304,7 +305,8 @@ const experience = {
         {
           title: "Intern",
           company: "National Instruments",
-          company_url: "https://www.ni.com/en.html?srsltid=AfmBOoqR_c9znVCaUvYTFeJ6VHYK3wFNkq3Q9bS4rK7IZkcrBd1DENFD",
+          company_url:
+            "https://www.ni.com/en.html?srsltid=AfmBOoqR_c9znVCaUvYTFeJ6VHYK3wFNkq3Q9bS4rK7IZkcrBd1DENFD",
           logo_path: "ni_logo.jpg",
           duration: "Jun 2019 - July 2019",
           location: "New Delhi, India",
@@ -320,14 +322,14 @@ const experience = {
           duration: "Apr 2019 - Dec 2020",
           location: "Cuttack, Odisha",
           description:
-            "Took on a management role while studying, overseeing the training and performance of 12+ interns. Simultaneously provided mathematics and programming tuition to underprivileged students.",          
-            color: "#000000",
+            "Took on a management role while studying, overseeing the training and performance of 12+ interns. Simultaneously provided mathematics and programming tuition to underprivileged students.",
+          color: "#000000",
         },
         {
           title: "Volunteer Animal Carer",
           company: "Blue Cross",
           company_url: "https://bluecrosshyd.org/",
-          logo_path: "bluecross_logo.png", 
+          logo_path: "bluecross_logo.png",
           duration: "Jun 2023 - Dec 2023",
           location: "Hyderabad, Telangana",
           description:
@@ -337,7 +339,7 @@ const experience = {
         {
           title: "Global Youth Volunteer",
           company_url: "",
-          logo_path: "GYV.jpg", 
+          logo_path: "GYV.jpg",
           duration: "April 2019 – December 2019",
           location: "Cuttack, Odisha",
           description:
