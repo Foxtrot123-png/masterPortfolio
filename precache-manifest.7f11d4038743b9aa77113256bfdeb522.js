@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "331cd9ee1cdc73bd2b53defe8fea49b0",
+    "revision": "5499b0d3dc64336573ba21f6e4834b22",
     "url": "/Ritik-Portfolio/index.html"
   },
   {
-    "revision": "703a590f13f58e6faf32",
-    "url": "/Ritik-Portfolio/static/css/main.9ae17815.chunk.css"
+    "revision": "5be7115b77cf25f229aa",
+    "url": "/Ritik-Portfolio/static/css/main.71dce618.chunk.css"
   },
   {
     "revision": "4940114d3170c2fd12c0",
     "url": "/Ritik-Portfolio/static/js/2.b32e71b1.chunk.js"
   },
   {
-    "revision": "703a590f13f58e6faf32",
-    "url": "/Ritik-Portfolio/static/js/main.77ca4aa5.chunk.js"
+    "revision": "5be7115b77cf25f229aa",
+    "url": "/Ritik-Portfolio/static/js/main.d40c353d.chunk.js"
   },
   {
     "revision": "356ccd7861e2528a7d12",
@@ -168,8 +168,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ritik-Portfolio/static/media/fa-solid-900.8e4a6dcc.eot"
   },
   {
-    "revision": "aa34198c16f95a798e9021a6c54f8f33",
-    "url": "/Ritik-Portfolio/static/media/feelingProud.aa34198c.svg"
+    "revision": "017d58924a33118be3ed382dff73284b",
+    "url": "/Ritik-Portfolio/static/media/feelingProud.017d5892.svg"
   },
   {
     "revision": "c446a1938610656270b6ba7deaad909b",

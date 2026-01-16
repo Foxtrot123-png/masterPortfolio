@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Ritik-Portfolio/precache-manifest.5ca0526f4723cee086bbbd88e2bd419d.js"
+  "/Ritik-Portfolio/precache-manifest.7f11d4038743b9aa77113256bfdeb522.js"
 );
 
 self.addEventListener('message', (event) => {
